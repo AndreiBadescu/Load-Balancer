@@ -1,0 +1,14 @@
+bin/
+bin-int/
+.vscode/
+deps/
+.swp
+*.sln
+*.user
+*.filters
+*.vcxproj
+x64/
+Debug/
+Release/
+.vs/
+makefile
