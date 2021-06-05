@@ -1,2 +1,2 @@
 # Load-Balancer
-Codul apartine lui Darius Brinzan.
+Load balancer using hashring
